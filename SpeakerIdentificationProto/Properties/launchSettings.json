@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpeakerIdentificationProto": {
+      "commandName": "Project",
+      "commandLineArgs": "enroll 33626791-05ac-46dc-a5c5-daecca149ba1"
+    }
+  }
+}
